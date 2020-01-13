@@ -8,6 +8,7 @@ Compilation of some practical work about statistical learning.
 * Movies recommendation
 * Perceptron stochastic gradient descent visualisation
 * Time series
+* Nonnegative matrix factorization
 
 ---
 
@@ -61,3 +62,11 @@ Data sets:
  * Internet traffic data: ftp://ita.ee.lbl.gov/html/contrib/LBL-TCP-3.html
  
  * Southern oscillation index data: http://www.bom.gov.au/climate/glossary/soi.shtml
+ 
+ ---
+ # [Nonnegative matrix factorization](./nonnegative-matrix-factorization)
+
+*Work done during Slim Essid course at Telecom Paris.*
+
+* NMF and PCA comparison
+* Performing topic extraction with NMF
